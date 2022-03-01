@@ -97,7 +97,7 @@ needs a valid jwt authentication header
 ___
 
 ### POST /api/auth/login
-Cancels a trial for a user. `official client only`
+Request to login endpoint returns JWT
 
 **Parameters**
 
