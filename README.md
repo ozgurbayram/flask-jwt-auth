@@ -3,11 +3,6 @@
 <a href="https://jwt.io/"><img src="http://jwt.io/img/logo-asset.svg" alt="JWT" width="150px"></a>
 </div>
 
-
-<p align=center>
-<a href="https://pypi.org/project/jina/"><img src="https://github.com/jina-ai/jina/blob/master/.github/badges/python-badge.svg?raw=true" alt="Python 3.7 3.8 3.9" title="Jina supports Python 3.7 and above"></a>
-<a href="https://pypi.org/project/jina/"><img src="https://img.shields.io/pypi/v/jina?color=%23099cec&amp;label=PyPI&amp;logo=pypi&amp;logoColor=white" alt="PyPI"></a>
-
 <!-- start jina-description -->
 
 This is a flask service that handles user login and register functions from clinets and returns JWT Token.
